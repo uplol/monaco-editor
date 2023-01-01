@@ -25,9 +25,9 @@
     "@types/mocha": "^2.2.33",
     "chai": "^4.2.0",
     "clean-css": "^4.2.3",
-    "css-loader": "^3.2.0",
+    "css-loader": "^6.7.3",
     "event-stream": "4.0.1",
-    "file-loader": "^4.2.0",
+    "file-loader": "^6.2.0",
     "gulp": "^4.0.0",
     "gulp-typedoc": "^2.2.2",
     "mocha": "^6.2.2",
@@ -44,8 +44,8 @@
     "typescript": "^3.7.5",
     "uncss": "^0.17.3",
     "vinyl": "^2.2.0",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "yaserver": "^0.2.0"
   }
 }
